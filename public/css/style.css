@@ -1,10 +1,15 @@
- 
 body {
   font-family: Helvetica, Arial, sans-serif;
   background-color: cadetblue;
+  max-width: 80ch;
+  text-wrap: pretty;
+  margin-inline: auto;
+}
+
+h1, h2, h3 {
+  text-wrap: balance;
 }
 
 h1 {
   text-align: center;
-  text-wrap: balance;
 }
