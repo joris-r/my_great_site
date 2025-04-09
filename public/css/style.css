@@ -1,0 +1,10 @@
+ 
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: cadetblue;
+}
+
+h1 {
+  text-align: center;
+  text-wrap: balance;
+}
