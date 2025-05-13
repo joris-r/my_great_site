@@ -1,15 +1,10 @@
 body {
+  /* The absolute minimum to add */
+  max-inline-size: 70ch;
+  margin-inline: auto;
+  padding-inline: 1rem;
+
+  /* A minimum of ornaments */
   font-family: Helvetica, Arial, sans-serif;
   background-color: cadetblue;
-  max-width: 80ch;
-  text-wrap: pretty;
-  margin-inline: auto;
-}
-
-h1, h2, h3 {
-  text-wrap: balance;
-}
-
-h1 {
-  text-align: center;
 }
